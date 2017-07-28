@@ -1,9 +1,11 @@
-<head>
+<!DOCTYPE html>
+<html>
+  <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>La Danza de las Fieras</title>
+  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1">
+  <meta name="author" content="Rodrigo Salmerón">
+  <title>{% if page.title %}La Danza de las Fieras | {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="Seis historias. Seis directores. La Danza de las Fieras es una película que aborda diferentes caras de la trata de personas.">
 
   <meta property="og:url" content="http://ladanzadelasfieras.com/">
@@ -14,10 +16,6 @@
   <meta property="og:image" content="http://ladanzadelasfieras.com/img/og_image.png"/>
   <meta property="og:locale" content="es_MX" />
   <meta property="og:locale:alternate" content="es_ES" />
-
-  <link rel="stylesheet" href="css/old.css">
-  <link href="https://fonts.googleapis.com/css?family=Share" rel="stylesheet">
-  <link rel="canonical" href="http://ladanzadelasfieras.com/">
 
   <link rel="apple-touch-icon-precomposed" sizes="57x57" href="favicons/apple-touch-icon-57x57.png" />
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="favicons/apple-touch-icon-114x114.png" />
@@ -40,14 +38,7 @@
   <meta name="msapplication-wide310x150logo" content="favicons/mstile-310x150.png" />
   <meta name="msapplication-square310x310logo" content="favicons/mstile-310x310.png" />
   <link rel="shortcut icon" href="favicon.ico" />
-</head>
-<body>
-<h1>La Danza de las Fieras</h1>
-<img src="/img/logo.svg">
 
-<iframe src="https://player.vimeo.com/video/226767311" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<a href="/download/LDDLF_PRESS.pdf">Descarga nuestro material</a>
-<footer>
-<img src="/img/sponsor.svg">
-</footer>
-</body>
+  <link rel="stylesheet" href="/css/main.css">
+
+</head>
