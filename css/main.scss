@@ -42,6 +42,11 @@ a img {
   outline: none;
 }
 
+b{
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 a:hover {
   color: $black;
   border: none;
@@ -101,8 +106,12 @@ nav{
       font-size: 11px;
       letter-spacing: 1px;
     }
+    .active{
+      border-bottom: 1px solid white;
+    }
     a{
       color: $white;
+      padding-bottom: 7px;
       cursor:pointer;
       @include transition(.4s, ease);
       &:hover{
@@ -138,7 +147,7 @@ nav{
   position: relative;
   float: left;
   padding-bottom: 10%;
-  padding: 10% 20% 10% 0;
+  padding: 10% 20% 0 0;
   margin-top: 20%;
   box-sizing: border-box;
   bottom: 0px;
@@ -147,7 +156,7 @@ nav{
 #producer_list{
   float: left;
   padding-bottom: 10%;
-  padding: 0% 0% 10% 0;
+  padding: 0;
   margin-top: 17%;
   width: 40%;
   box-sizing: border-box;
@@ -167,7 +176,7 @@ nav{
 .producer_horizontal_list{
   float: left;
   margin-top: 2%;
-  padding: 0% 10% 10% 0;
+  padding: 0% 10% 3% 0;
   width: 100%;
   box-sizing: border-box;
   li{
@@ -182,16 +191,16 @@ nav{
 }
 
 .producer_reflekto{
-  background-image: url(/img/reflekto.svg);
+  background-image: url(/img/productoras/reflekto.svg);
 }
 .producer_kaptura{
-  background-image: url(/img/kaptura.svg);
+  background-image: url(/img/productoras/kaptura.svg);
 }
 .producer_bala{
-  background-image: url(/img/bala.svg);
+  background-image: url(/img/productoras/bala.svg);
 }
 .producer_educadores{
-  background-image: url(/img/educadores.svg);
+  background-image: url(/img/productoras/educadores.svg);
 }
 
 h2{
@@ -244,4 +253,37 @@ footer{
       margin: 0 10%;
       box-sizing: border-box;
       border-top: 1px solid #ffffff;
+}
+
+.still{
+  width: 100%;
+  float: left;
+}
+
+.director_image{
+  width: 200px;
+  float: left;
+  border-radius: 50%;
+  padding: 5%;
+  box-sizing: border-box;
+}
+
+.corto-half{
+  width:70%;
+  float:left;
+  padding: 2%;
+  box-sizing: border-box;
+}
+.director-card{
+  width:30%;
+  float:left;
+  padding-top: 2%;
+  box-sizing: border-box;
+}
+
+.productoras_logo{
+  height:200px;
+  width: auto;
+  float:left;
+  clear:both;
 }

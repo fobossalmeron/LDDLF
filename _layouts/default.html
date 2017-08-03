@@ -2,6 +2,12 @@
   <body>
     {% include nav.html %}
     <main>
+      <div class="video_container">
+        <div class="overlay"></div>
+        <video playsinline autoplay muted loop>
+          <source src="{{site.baseurl}}video/video.mp4" type="video/mp4">
+        </video>
+      </div>
     <h1 class="title">{% if page.title %}La Danza de las Fieras | {{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
         {{ content }}
     </main>

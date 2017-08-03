@@ -3,14 +3,12 @@ layout: default
 title: Noticias
 permalink: /noticias/
 ---
-
-Aquí deben estar noticias
-
+<section>
 <ul>
 {% assign noticiasorden = site.noticias | sort:"order" %}
   {% for noticia in noticiasorden %}
-    <li{% if page.title == noticia.title %} class= "active" {% endif %}>
-      <a href="{{ noticia.url }}">{{ noticia.title }}</a>
-    </li>
+      <h2>{{ noticia.title }}</h2>
+      {{ noticia.content }}
   {% endfor %}
 </ul>
+</section>

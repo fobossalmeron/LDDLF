@@ -1,19 +1,19 @@
 <nav>
   <ul>
-    <li {% if page.title == 'La Danza de las Fieras' %} class= "active" {% endif %}>
-        <a href="/">Inicio</a>
+    <li>
+        <a {% if page.title == 'La Danza de las Fieras' %} class= "active" {% endif %} href="/">Inicio</a>
     </li>
-     <li {% if page.title == 'Proyecto' %} class= "active" {% endif %}>
-         <a href="/proyecto/">Proyecto</a>
+     <li>
+         <a {% if page.title == 'Proyecto' %} class= "active" {% endif %} href="/proyecto/">Proyecto</a>
      </li>
-     <li{% if page.title == 'Cortometrajes' %} class= "active" {% endif %}>
-         <a href="/cortometrajes/">Cortometrajes</a>
+     <li>
+         <a {% if page.title == 'Cortometrajes' %} class= "active" {% endif %} href="/cortometrajes/">Cortometrajes</a>
      </li>
-     <li{% if page.title == 'Productoras' %} class= "active" {% endif %}>
-         <a href="/productoras/">Productoras</a>
+     <li>
+         <a {% if page.title == 'Productoras' %} class= "active" {% endif %} href="/productoras/">Productoras</a>
      </li>
-     <li{% if page.title == 'Noticias' %} class= "active" {% endif %}>
-         <a href="/noticias/">Noticias</a>
+     <li>
+         <a {% if page.title == 'Noticias' %} class= "active" {% endif %} href="/noticias/">Noticias</a>
      </li>
   </ul>
 </nav>
