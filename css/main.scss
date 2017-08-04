@@ -121,6 +121,14 @@ nav{
   }
 }
 
+.social_nav{
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  padding: 20px;
+}
+
 .video_container{
   video{
     position:fixed;
@@ -246,26 +254,23 @@ h3{
   }
 }
 
-footer{
-  width: 80%;
-      float: left;
-      padding: 10%;
-      margin: 0 10%;
-      box-sizing: border-box;
-      border-top: 1px solid #ffffff;
-}
-
 .still{
   width: 100%;
   float: left;
 }
 
 .director_image{
-  width: 200px;
+  width: 160px;
   float: left;
+  clear:both;
   border-radius: 50%;
   padding: 5%;
+  filter: grayscale(100%);
   box-sizing: border-box;
+  transition: .4s ease;
+  &:hover{
+    filter: grayscale(0%);
+  }
 }
 
 .corto-half{
@@ -281,9 +286,167 @@ footer{
   box-sizing: border-box;
 }
 
+.director_social{
+  float:left;
+  clear:both;
+  padding-top: 13px;
+}
+
 .productoras_logo{
   height:200px;
   width: auto;
   float:left;
   clear:both;
+}
+
+span{
+  color:white;
+  float:left;
+  clear:both;
+  margin-top:10.5px;
+  background-color: $red;
+  padding: 5px 9px;
+  font-size: 1.1em;
+  transition: .4s ease;
+  &:hover{
+    background-color: $black;
+  }
+}
+
+.leermas{
+  background-color:$red;
+  color:$black;
+  padding: 1px 5px;
+  transition: .4s ease;
+  &:hover{
+    background-color:$white;
+  }
+}
+
+
+footer{
+  width: 80%;
+  float: left;
+  padding: 5% 5% 2% 5%;
+  margin: 0 10%;
+  box-sizing: border-box;
+  border-top: 1px solid #ffffff;
+}
+
+form{
+  float:left;
+  margin-top: 1%;
+  clear:both;
+  width:50%;
+}
+
+input,textarea{
+  padding: 2%;
+  width:100%;
+  font-family: inherit;
+  float: left;
+  margin: 2% 0%;
+  clear:both;
+  font-size: 1.3em;
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0);
+  color:$white;
+  box-sizing: border-box;
+  outline: none;
+  text-transform: uppercase;
+  transition: .4s ease;
+  &::placeholder{
+    color:$white;
+  }
+  &:focus{
+    outline: none;
+    background-color:$black;
+    box-shadow: 0 0 5px rgba(200, 50, 34, 1);
+    border: 1px solid rgba(200, 50, 34, 1);
+  }
+}
+
+h4{
+  background-color: $white;
+  clear:both;
+  float:left;
+  background-image: url(../img/noise2.png);
+  text-transform: uppercase;
+  color: $black;
+  font-weight: bold;
+  padding: 2px 7px 0px 8px;
+  font-size: 2em;
+  display:inline-block;
+}
+
+input[type="submit"]{
+  background-color:transparent;
+  border: 1px solid rgba(255, 255, 255, 1);
+  font-family: inherit;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2em;
+  cursor: pointer;
+  &:hover{
+    background-color:$black;
+    color:$white;
+  }
+}
+
+.redfooter{
+  width:50%;
+  float:left;
+  padding: 0% 9% 0% 22%;
+  box-sizing: border-box;
+}
+
+.colophon{
+  float:left;
+  width:100%;
+  text-align: center;
+  margin-top: 5%;
+  a{
+    background-color:$black;
+    transition: .4s ease;
+    padding:1px 4px;
+    cursor:pointer;
+    &:hover{
+      background-color:$white;
+    }
+  }
+}
+
+.social-link{
+  width:40px;
+  float:left;
+  padding-left: 10px;
+  padding-bottom: 2%;
+  margin-top: -10px;
+  transition: .4s ease;
+  cursor:pointer;
+  &:hover{
+    transform: scale(1.2);
+  }
+  svg{
+    width:100%;
+    path{
+      fill:white;
+    }
+    circle{
+      fill:white;
+    }
+  }
+}
+.facebook{
+  width: 18px;
+  margin-top: -8px;
+}
+.instagram{
+  padding-left: 13px;
+}
+
+.imdb{
+  width: 60px;
+  margin-top: -3px;
+  padding-left: 15px;
 }
