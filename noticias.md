@@ -16,7 +16,7 @@ permalink: noticias/
       </a>
       <p>{{ noticia.excerpt | remove: '<p>' | remove: '</p>' }}
       {% if noticia.external_link %}
-        <a class="leermas" href="http://{{ noticia.external_link }}">(Leer más...)
+        <a class="leermas" href="http://{{ noticia.external_link }}" target="_blank">(Leer más...)
       {% else %}
         <a class="leermas" href="{{ noticia.url }}">(Leer más...)
       {% endif %}
