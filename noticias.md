@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Noticias
-permalink: /noticias/
+permalink: noticias/
 ---
 <section>
 {% assign noticiasorden = site.noticias | sort:"order" %}

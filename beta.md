@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inicio
+permalink: beta/
 ---
 
 <section id="landing">

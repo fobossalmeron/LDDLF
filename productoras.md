@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Productoras
-permalink: /productoras/
+permalink: productoras/
 productoras:
   - nombre: Reflekto Kreativo
     descripcion: >

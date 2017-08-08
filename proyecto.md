@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proyecto
-permalink: /proyecto/
+permalink: proyecto/
 ---
 <section>
 <h2>La Película</h2>

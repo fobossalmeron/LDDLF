@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 404 Página no encontrada
+title: Gracias
+permalink: gracias/
 ---
 <section>
 <h2>Gracias!</h2>
