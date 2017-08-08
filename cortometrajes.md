@@ -6,6 +6,7 @@ permalink: /cortometrajes/
 
 <section>
   {% for corto in site.cortometrajes %}
+  <div class="corto">
     <div class="corto-half">
       <h2>{{corto.title}}</h2>
       <p>{{corto.synopsis}}</p>
@@ -66,5 +67,6 @@ permalink: /cortometrajes/
         <p>{{corto.codirector_bio}}</p>
       {% endif %}
     </div>
+  </div>
   {% endfor %}
 </section>

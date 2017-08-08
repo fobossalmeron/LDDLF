@@ -4,7 +4,6 @@
 @import url('https://fonts.googleapis.com/css?family=Share:400,400i,700');
 @import 'variables';
 @import 'mixins';
-@import 'responsive';
 @import 'syntax-highlighting';
 
 /*****************************************************************************/
@@ -30,6 +29,10 @@ body {
   font-family: 'Share', cursive;
   font-weight: 300;
   font-size: 0.75em;
+}
+
+.preventscroll{
+  overflow:hidden;
 }
 
 a {
@@ -67,10 +70,15 @@ h1{
   font-size:0px;
 }
 
+main{
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
 section{
   position: relative;
-  height: 100%;
-  min-height: 100vh;
+  height: auto;
+  min-height: 100%;
   width: 100%;
   float: left;
   padding: 10% 20% 10% 10%;
@@ -93,8 +101,13 @@ nav{
   position:fixed;
   height: 75px;
   z-index: 5;
+  button{
+    display:none;
+  }
   ul{
     width: 440px;
+    transition: .4s ease;
+    box-sizing: border-box;
     position:relative;
     float:left;
     left:50%;
@@ -105,6 +118,7 @@ nav{
       text-transform: uppercase;
       font-size: 11px;
       letter-spacing: 1px;
+      box-sizing: border-box;
     }
     .active{
       border-bottom: 1px solid white;
@@ -113,12 +127,29 @@ nav{
       color: $white;
       padding-bottom: 7px;
       cursor:pointer;
+      box-sizing: border-box;
       @include transition(.4s, ease);
       &:hover{
         color:#c1c1c1;
       }
     }
   }
+}
+
+.menubutton{
+  display:none;
+    border: none;
+    color: white;
+    font-size: 2em;
+    padding: 16px;
+    background-color: transparent;
+    font-family: inherit;
+    letter-spacing: 1px;
+    transition: .4s ease;
+    cursor: pointer;
+    &:hover{
+      transform: scale(1.2);
+    }
 }
 
 .social_nav{
@@ -131,16 +162,24 @@ nav{
 
 .video_container{
   video{
-    position:fixed;
-    left:0;
-    right:0;
-    top:0;
-    bottom:0;
-    z-index: -2;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background: url('{{ site.baseurl }}img/background.svg') no-repeat;
+    background-size: cover;
+    transition: 1s opacity;
   }
   .overlay{
       background-image: url(../img/noise2.png);
       position:fixed;
+      width: 100%;
+      height: 100%;
       left:0;
       right:0;
       top:0;
@@ -206,8 +245,26 @@ nav{
 }
 .producer_bala{
   background-image: url(/img/productoras/bala.svg);
+  margin-left:7px;
 }
 .producer_educadores{
+  background-image: url(/img/productoras/educadores.svg);
+    margin-left:7px;
+}
+
+.producer_reflekto_align{
+  background-image: url(/img/productoras/reflekto.svg);
+  margin-right: 7px;
+}
+.producer_kaptura_align{
+  background-image: url(/img/productoras/kaptura.svg);
+      margin-right: 7px;
+}
+.producer_bala_align{
+  background-image: url(/img/productoras/bala.svg);
+  margin-right: 3px;
+}
+.producer_educadores_align{
   background-image: url(/img/productoras/educadores.svg);
 }
 
@@ -260,16 +317,24 @@ h3{
 }
 
 .director_image{
-  width: 160px;
+  width: 135px;
   float: left;
   clear:both;
-  border-radius: 50%;
-  padding: 5%;
+  border-radius: 50% 50%;
+  margin: 5%;
   filter: grayscale(100%);
   box-sizing: border-box;
   transition: .4s ease;
   &:hover{
     filter: grayscale(0%);
+  }
+}
+
+.corto{
+  float:left;
+  margin-top: 10%;
+  &:first-child{
+    margin-top: 0;
   }
 }
 
@@ -293,10 +358,21 @@ h3{
 }
 
 .productoras_logo{
-  height:200px;
+  height: 180px;
   width: auto;
+  float: left;
+  clear: both;
+  box-sizing: border-box;
+  padding-top: 2%;
+}
+
+.productora{
   float:left;
   clear:both;
+  margin-top:10%;
+  &:first-child{
+    margin-top:0;
+  }
 }
 
 span{
@@ -417,7 +493,6 @@ input[type="submit"]{
 }
 
 .social-link{
-  width:40px;
   float:left;
   padding-left: 10px;
   padding-bottom: 2%;
@@ -438,15 +513,28 @@ input[type="submit"]{
   }
 }
 .facebook{
-  width: 18px;
-  margin-top: -8px;
+  width: 13px;
+  margin-top: -6px;
 }
 .instagram{
+  width: 32px;
+  margin-top: -9px;
+  padding-left: 12px;
+}
+.imdb{
+  width: 50px;
+  margin-top: -4px;
   padding-left: 13px;
 }
-
-.imdb{
-  width: 60px;
-  margin-top: -3px;
-  padding-left: 15px;
+.twitter{
+  width:35px;
 }
+
+.seamless{
+  color: $white;
+  &:hover{
+    background-color:$red;
+  }
+}
+
+@import 'responsive';

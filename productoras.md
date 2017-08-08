@@ -56,6 +56,7 @@ productoras:
 ---
 <section>
   {% for productora in page.productoras %}
+  <div class="productora">
   <a href="{{productora.link}}">
     <h2>{{productora.nombre}}</h2>
     <img class="productoras_logo" src="{{site.baseurl}}img/productoras/{{productora.img}}">
@@ -73,8 +74,8 @@ productoras:
   {% endif %}
   {% if productora.twitter %}
     <a href="{{productora.twitter}}" target="_blank">
-      <div class="social-link">{% include icons/twitter.html %}</div>
+      <div class="social-link twitter">{% include icons/twitter.html %}</div>
     </a>
   {% endif %}
   {% endfor %}
-</section>
+</div>

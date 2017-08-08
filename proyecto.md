@@ -28,7 +28,7 @@ que aborda LA DANZA DE LAS FIERAS.</p>
 <b>Género:</b> Mixto, ficción y documental<br>
 <b>Duración:</b> 2 horas 8 minutos.<br>
 <b>Producción Ejecutiva:</b> Silvia Garza, Martha Hernández<br>
-<b>Productor:</b> Germán Castilla<br>
+<b>Productor:</b> <a class="seamless" href="http://m.imdb.com/name/nm5720839/">Germán Castilla</a><br>
 <b>Productor Asociado:</b> Bernardo De Urquidi<br>
 <b>Productoras:</b> Reflekto Kreativo, Kaptura Projects, Bala Films y Educadores sin Fronteras.<br>
 </p>

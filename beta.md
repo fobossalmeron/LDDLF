@@ -6,10 +6,10 @@ title: Inicio
 <section id="landing">
   <img id="logo" src="{{site.baseurl}}img/logowhite.svg" alt="La Danza de las Fieras">
   <ul id="producer_list">
-    <li class="producer_reflekto"></li>
-    <li class="producer_kaptura"></li>
-    <li class="producer_bala"></li>
-    <li class="producer_educadores"></li>
+    <li class="producer_reflekto_align"></li>
+    <li class="producer_kaptura_align"></li>
+    <li class="producer_bala_align"></li>
+    <li class="producer_educadores_align"></li>
   </ul>
 </section>
 

@@ -3,7 +3,7 @@ title: Followback
 director: Stacy Perskie
 still: img/stills/followback.jpg
 director_bio: Co-Fundador de la casa productora Redrum, con la cual ha producido películas como Get the Gringo y co-producido entre muchas otras, películas como <em>007 Spectre</em>, <em>Elysium</em> y la serie <em>Mozart in the Jungle</em>.
-director_picture: img/directors/stacy.jpg
+director_picture: img/directors/fieras.jpg
 director_imdb: http://www.imdb.com/name/nm1142384/
 codirector: Alayde Castro
 codirector_bio: Socia fundadora y Directora Creativa de la Casa Productora Kaptura Projects que ha trabajado para clientes como la <em>UNAM</em>, el <em>STC Metro</em> y la Secretaría de Turismo del Estado de Puebla.
