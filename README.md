@@ -1,3 +1,4 @@
 ##La Danza de las Fieras
 
-- Redes
+- imagenes de directores
+- noticias y imagen de noticia y og image
