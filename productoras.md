@@ -51,7 +51,7 @@ productoras:
   <div class="productora">
   <a href="{{productora.link}}" target="_blank">
     <h2>{{productora.nombre}}</h2>
-    <img class="productoras_logo" src="{{site.baseurl}}img/productoras/{{productora.img}}">
+    <img class="productoras_logo" src="/img/productoras/{{productora.img}}">
   </a>
   <p>{{productora.descripcion}}</p>
   {% if productora.mail %}

@@ -10,13 +10,13 @@ permalink: cortometrajes/
     <div class="corto-half">
       <h2>{{corto.title}}</h2>
       <p>{{corto.synopsis}}</p>
-      <img class="still" src="{{ site.baseurl }}{{ corto.still }}">
+      <img class="still" src="/{{ corto.still }}">
       {{ corto.content }}
     </div>
     <div class="director-card">
       {% for director in corto.directors %}
       <h3>{{director.name}}</h3>
-        <img class="director_image" src="{{ site.baseurl }}{{ director.img }}">
+        <img class="director_image" src="/{{ director.img }}">
       <div class="director_social">
         {% if director.facebook %}
           <a href="{{ director.facebook }}" target="_blank">

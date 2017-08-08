@@ -5,7 +5,7 @@ permalink: beta/
 ---
 
 <section id="landing">
-  <img id="logo" src="{{site.baseurl}}img/logowhite.svg" alt="La Danza de las Fieras">
+  <img id="logo" src="/img/logowhite.svg" alt="La Danza de las Fieras">
   <ul id="producer_list">
     <li class="producer_reflekto_align"></li>
     <li class="producer_kaptura_align"></li>
