@@ -19,7 +19,7 @@ exclude:
 
 collections:
   cortometrajes:
-    output: true
+    output: false
   noticias:
     output: true
     permalink: /noticias/:path/
