@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cortometrajes
-permalink: cortometrajes/
+permalink: /cortometrajes/
 ---
 
 <section>
