@@ -6,7 +6,7 @@ synopsis: >
 directors:
   - name: Stacy Perskie
     bio: Co-Fundador de la casa productora <a href="http://redrum.com.mx/" target="_blank">Redrum</a>, con la cual ha producido películas como Get The Gringo y co-producido, entre muchas otras, películas como <em>007 Spectre</em>, <em>Elysium</em> y la serie <em>Mozart in the Jungle</em>.
-    img: img/directors/fieras.jpg
+    img: img/directors/stacy.jpg
     mail: stacy@redrum.com.mx
     imdb: http://www.imdb.com/name/nm1142384/
   - name: Alayde Castro

@@ -6,7 +6,7 @@ synopsis: >
 directors:
   - name: Ángel Linares
     bio: Documentalista que ha sido nominado al premio <em>Ariel</em> y galardonado en el <em>FICM</em>, <em>DOCSMX</em> y el Festival Internacional de Cine de Caracas. Sus documentales se han presentado en <em>La Semaine de la Critique</em> de <em>Cannes</em>, en el Festival de Cine de Sarajevo y en <em>La Habana</em>. Su documental más premiado ha sido <em>Las Montañas Invisibles</em> (2012).
-    img: img/directors/fieras.jpg
+    img: img/directors/angel.jpg
     imdb: http://www.imdb.com/name/nm9094476/
     mail: arlinco13@gmail.com
 ---

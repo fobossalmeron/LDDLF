@@ -7,7 +7,7 @@ directors:
   - name: Rodrigo Ruiz Patterson
     bio: >
       Graduado <em>Cum Laude</em> del <em>CCC</em> con la tesis ficción <em><a href="https://www.youtube.com/watch?v=IpPrRqnBSXU&t=3s" target="_blank">Australia</a></em> por la cual fue nominado al <em>Ariel</em> en 2017 y ganó el premio de Mejor Cortometraje Latinoamericano de Ficción en el Festival Internacional de Cine del Desierto. Además dirigió los cortometrajes <em>En el Camino, Vendetta, Berrettas y Pop, Chicklick</em> y <em>Paradisio</em>; este último fue selección oficial de más de 10 festivales de cine internacionales, entre ellos <em>Cannes</em>, <em>Raindance</em>, <em>La Habana</em> y <em>Morelia</em>
-    img: img/directors/fieras.jpg
+    img: img/directors/patterson.jpg
     imdb: http://www.imdb.com/name/nm2559532/
     instagram: http://instagram.com/eltonayon
     mail: ruizpattersonrodrigo@gmail.com

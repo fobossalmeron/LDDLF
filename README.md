@@ -1,4 +1,4 @@
 ##La Danza de las Fieras
 
-- imagenes de directores
-- noticias y imagen de noticia y og image
+- Imagenes de: Ana, Stacy, Patterson, Linares
+- og image noticias?

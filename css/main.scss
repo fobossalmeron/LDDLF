@@ -39,6 +39,7 @@ a {
   color: $red;
   text-decoration: none;
   border: none;
+  cursor: pointer;
 }
 
 a img {
@@ -511,17 +512,24 @@ input[type="submit"]{
   margin-top: -10px;
   background-color: transparent;
   transition: .4s ease;
-  cursor:pointer;
+  cursor:pointer !important;
   &:hover{
     transform: scale(1.2);
+    cursor:pointer;
   }
   svg{
     width:100%;
+    cursor:pointer;
+    g{
+      cursor:pointer;
+    }
     path{
       fill:white;
+      cursor:pointer;
     }
     circle{
       fill:white;
+      cursor:pointer;
     }
   }
 }

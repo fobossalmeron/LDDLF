@@ -7,7 +7,7 @@ directors:
   - name: Ana Díez
     bio: >
       Directora española que ha ganado una Diosa de Plata, un Ariel y un Goya. Ha dirigido 3 documentales y 5 largometrajes ficción, entre ellos: <em>Ander Eta Yul</em> (1988), <em>Todo está Oscuro</em> (1997) y <em>Elvira Luz Cruz: Pena Máxima</em> (1985). Es Socia Co-Fundadora de CIMA (Asociación de Mujeres Cineastas y de Medios Audiovisuales).
-    img: img/directors/fieras.jpg
+    img: img/directors/ana.jpg
     imdb: http://www.imdb.com/name/nm0246781/
     mail: ANADD@telefonica.net
 ---

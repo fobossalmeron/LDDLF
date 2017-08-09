@@ -5,15 +5,19 @@ permalink: productoras/
 productoras:
   - nombre: Reflekto Kreativo
     descripcion: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-      culpa qui officia deserunt mollit anim id est laborum.
+      <b>REFLEKTO KREATIVO</b> es una generadora de productos culturales.
+      Somos una empresa de jóvenes, lo que ofrece una gran flexibilidad de cara a la
+      vertiginosa aparición de novedosas plataformas, aplicaciones, formatos y opciones
+      educativas y de entretenimiento.
+      Aglutinamos varias empresas que llevan a cabo proyectos de investigación,
+      gestión cultural, producción audiovisual, producción de espectáculos y creación
+      de conceptos didácticos, lo cual nos permite elaborar propuestas llenas de
+      creatividad, pero sólidamente sustentadas, acordes a las características y
+      necesidades de cada proyecto.
     img: reflekto.svg
   - nombre: Kaptura Projects
     descripcion: >
-      Kaptura Projects nace de los deseos de un grupo de jóvenes cineastas que buscan generar proyectos relevantes. A través de la confianza depositada en jóvenes artistas para el desarrollo de los proyectos, escuchando las necesidades de los nuevos creativos para dar resultados frescos, innovadores y actualizados.
+      <b>Kaptura Projects</b> nace de los deseos de un grupo de jóvenes cineastas que buscan generar proyectos relevantes. A través de la confianza depositada en jóvenes artistas para el desarrollo de los proyectos, escuchando las necesidades de los nuevos creativos para dar resultados frescos, innovadores y actualizados.
     link: http://kapturaprojects.com/
     facebook: https://www.facebook.com/kapturaprojects/
     instagram: https://www.instagram.com/kapturaprojectsmx/
@@ -41,7 +45,7 @@ productoras:
     img: bala.svg
   - nombre: Educadores Sin Fronteras
     descripcion: >
-      Educadores sin fronteras, A.C. es una organización no gubernamental, autónoma, sin fines de lucro, que desarrolla y fomenta programas académicos y culturales, así como publicaciones e investigaciones con el objetivo de mejorar la educación en México.
+      <b>Educadores sin fronteras</b> es una organización no gubernamental, autónoma, sin fines de lucro, que desarrolla y fomenta programas académicos y culturales, así como publicaciones e investigaciones con el objetivo de mejorar la educación en México.
       Las temáticas de nuestros programas son: prevención de la violencia, ética, cívica, lectura, cultura de la legalidad, equidad de género, participación social, didáctica, psicología, gestión de conflictos, mediación, inteligencia emocional y justicia.
     link: http://www.educadoressinfronteras.mx/
     img: educadores.svg
