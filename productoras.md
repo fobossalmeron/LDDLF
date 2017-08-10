@@ -24,7 +24,7 @@ productoras:
     img: kaptura.svg
   - nombre: Bala Films
     descripcion: >
-      <b>Bala Films</b> es una familia dedicada a la realización de obras cinematográficas y proyectos audiovisuales. Nuestros trabajos han sido seleccionados en diversos festivales nacionales e internacionales tales como:<br>
+      <b>Bala Films</b> es una familia dedicada a la realización de obras cinematográficas y proyectos audiovisuales. Nuestras obras han sido seleccionadas en los siguientes festivales nacionales e internacionales:<br>
       <b>FICM</b> (Festival Internacional de Cine de Morelia)<br>
       <b>FICG</b> (Festival Internacional de Cine de Guadalajara)<br>
       <b>FICUNAM</b> (Festival Internacional de Cine UNAM)<br>

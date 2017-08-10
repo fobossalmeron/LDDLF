@@ -24,14 +24,50 @@ en condiciones infrahumanas, albergues disfuncionales,
 víctimas colaterales y familias destruidas, son los temas
 que aborda LA DANZA DE LAS FIERAS.</p>
 <h3>Ficha tecnica</h3>
-<p>
-<b>Género:</b> Mixto, ficción y documental<br>
-<b>Duración:</b> 2 horas 8 minutos.<br>
-<b>Producción Ejecutiva:</b> Silvia Garza, Martha Hernández<br>
-<b>Productor:</b> <a class="seamless" href="http://m.imdb.com/name/nm5720839/">Germán Castilla</a><br>
-<b>Productor Asociado:</b> Bernardo De Urquidi<br>
-<b>Productoras:</b> Reflekto Kreativo, Kaptura Projects, Bala Films y Educadores sin Fronteras.<br>
-</p>
+<div class="producer_card">
+  <p>
+  <b>Género:</b> Mixto, ficción y documental<br>
+  <b>Duración:</b> 2 horas 8 minutos.<br>
+  <b>Producción Ejecutiva:</b> Silvia Garza, Martha Hernández<br>
+  <br>
+  <b>Productor:</b> Germán Castilla</p>
+  <img class="director_image" src="/img/producers/german.jpg">
+  <div class="social_block">
+    <a href="https://www.instagram.com/germancastillag/" target="_blank">
+      <div class="social-link instagram">{% include icons/instagram.html %}</div>
+    </a>
+    <a href="https://twitter.com/germancastilla" target="_blank">
+      <div class="social-link twitter">{% include icons/twitter.html %}</div>
+    </a>
+    <a href="http://m.imdb.com/name/nm5720839/" target="_blank">
+      <div class="social-link imdb">{% include icons/imdb.html %}</div>
+    </a>
+    <a href="mailto:castilla.german@gmail.com" target="_blank">
+      <div class="social-link instagram">{% include icons/mail.html %}</div>
+    </a>
+  </div>
+
+  <p><b>Productor Asociado:</b> Bernardo De Urquidi</p>
+  <img class="director_image" src="/img/producers/bernardo.jpg">
+  <div class="social_block">
+    <a href="https://www.linkedin.com/in/bernardo-de-urquidi-6b3b8a15/" target="_blank">
+      <div class="social-link instagram">{% include icons/linkedin.html %}</div>
+    </a>
+    <a href="http://www.imdb.com/name/nm5153681/" target="_blank">
+      <div class="social-link imdb">{% include icons/imdb.html %}</div>
+    </a>
+    <a href="mailto:bernardo.deurquidi@kapturaprojects.com" target="_blank">
+      <div class="social-link instagram">{% include icons/mail.html %}</div>
+    </a>
+  </div>
+  <p><b>Productoras:</b></p>
+  <ul class="producer_horizontal_list">
+    <li class="producer_reflekto"></li>
+    <li class="producer_kaptura"></li>
+    <li class="producer_bala"></li>
+    <li class="producer_educadores"></li>
+  </ul>
+</div>
 <h2>La trata de personas</h2>
 <p>La trata de personas es un fenómeno global. En el 2017 existen más esclavos que en cualquier otro momento de la historia de la humanidad. Según un reporte de la Casa Blanca, a nivel mundial hay más de 27 millones de personas sufriendo condiciones similares a la esclavitud. <br>
 La esclavitud o el tráfico de personas es definido en la actualidad como:<br>
