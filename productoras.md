@@ -38,7 +38,7 @@ productoras:
       <b>FESAALP</b> (Festival de Cine Latinoamericano de la Plata)<br>
       <b>FICA</b> (Festival Internacional de Cine de Acapulco)<br>
       <b>FicAgs</b> (Festival Internacional de Cine de Aguascalientes)<br>
-    link: https://www.facebook.com/balafilmsmx/
+    link: https://balafilms.mx
     facebook: https://www.facebook.com/balafilmsmx/
     instagram: https://www.instagram.com/balafilms/
     twitter: https://twitter.com/balafilmsmx
