@@ -34,13 +34,16 @@ que aborda LA DANZA DE LAS FIERAS.</p>
       <a href="http://www.educadoressinfronteras.mx/" target="_blank">
         <div class="social-link instagram">{% include icons/website.html %}</div>
       </a>
-      <a href="mailto:gzagza@me.com" target="_blank">
+      <a href="mailto:silvia@educadoresainfronteras.mx" target="_blank">
         <div class="social-link instagram">{% include icons/mail.html %}</div>
       </a>
     </div>
   <p><b>Productora Ejecutiva:</b> Martha Hernández</p>
   <img class="director_image" src="/img/producers/martha.jpg">
     <div class="social_block">
+      <a href="https://www.linkedin.com/in/martha-hern%C3%A1ndez-aguilar-58b32735/" target="_blank">
+        <div class="social-link instagram">{% include icons/linkedin.html %}</div>
+      </a>
       <a href="http://ojosdepapelvolando.com/" target="_blank">
         <div class="social-link instagram">{% include icons/website.html %}</div>
       </a>
