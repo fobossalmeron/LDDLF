@@ -19,4 +19,4 @@ directors:
 <b>Director:</b> Rodrigo Ruíz Patterson<br>
 <b>Director de fotografía:</b> Argel Ahumada<br>
 <b>Cast:</b> Asur Zagada, Francisco Barreiro, Carmen Ramos<br>
-<b>Música:</b> Alfredo Garrido<br>
+<b>Música:</b> Mateo Gonzalez Bufi<br>

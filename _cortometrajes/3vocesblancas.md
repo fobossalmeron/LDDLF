@@ -18,4 +18,4 @@ directors:
 <b>Directora:</b> Ana Díez<br>
 <b>Director de fotografía:</b> Alejandro Chávez<br>
 <b>Cast:</b> 30 Niños y niñas de 12 a 18 años<br>
-<b>Música:</b> Alfredo Garrido<br>
+<b>Música:</b> Ricardo García<br>

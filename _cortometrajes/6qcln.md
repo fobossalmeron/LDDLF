@@ -19,4 +19,4 @@ directors:
 <b>Directora:</b> Gina Herrera<br>
 <b>Directora de fotografía:</b> Flavia Martínez<br>
 <b>Cast:</b> Nicole Reyes, Matilde Luna, María Lourdes Pérez, Catalina López<br>
-<b>Música:</b> Alfredo Garrido<br>
+<b>Música:</b> Compuesta por Jose Luis Perales, interpretado por el cast<br>

@@ -17,4 +17,4 @@ directors:
 <b>Director:</b> Miguel Ángel Fernández<br>
 <b>Director de fotografía:</b> Alejandro Chávez<br>
 <b>Cast:</b> Rodolfo Calderón, Ángel Noe Alvarado, Francisco Pita, Ángel Copado, Eduardo Rodríguez<br>
-<b>Música:</b> Alfredo Garrido<br>
+<b>Música:</b> Ruben Cruz Martínez <br>

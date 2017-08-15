@@ -24,4 +24,4 @@ directors:
 <b>Guión:</b> Gina Herrera, Alayde Castro Hernández<br>
 <b>Animación:</b> Rodrigo Salmerón, Marco Antonio del Toro<br>
 <b>Cast:</b> Paulina Matos, Arianna Nicole Sucar, Lorena del Castillo, Julio Hernández, Luis Genaro Peñalosa, Violeta Robles Vivas, Sayra Rendón Ibarra, Sebastián Mauthe<br>
-<b>Música:</b> DaPuntoBeat<br>
+<b>Música:</b> Dapuntobeat<br>

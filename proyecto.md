@@ -28,9 +28,27 @@ que aborda LA DANZA DE LAS FIERAS.</p>
   <p>
   <b>Género:</b> Mixto, ficción y documental<br>
   <b>Duración:</b> 2 horas 8 minutos.<br>
-  <b>Producción Ejecutiva:</b> Silvia Garza, Martha Hernández<br>
-  <br>
-  <b>Productor:</b> Germán Castilla</p>
+  <b>Productora Ejecutiva:</b> Silvia Garza</p>
+  <img class="director_image" src="/img/producers/silvia.jpg">
+    <div class="social_block">
+      <a href="http://www.educadoressinfronteras.mx/" target="_blank">
+        <div class="social-link instagram">{% include icons/website.html %}</div>
+      </a>
+      <a href="mailto:gzagza@me.com" target="_blank">
+        <div class="social-link instagram">{% include icons/mail.html %}</div>
+      </a>
+    </div>
+  <p><b>Productora Ejecutiva:</b> Martha Hernández</p>
+  <img class="director_image" src="/img/producers/martha.jpg">
+    <div class="social_block">
+      <a href="http://ojosdepapelvolando.com/" target="_blank">
+        <div class="social-link instagram">{% include icons/website.html %}</div>
+      </a>
+      <a href="mailto:marthahernandez@ojosdepapelvolando.com" target="_blank">
+        <div class="social-link instagram">{% include icons/mail.html %}</div>
+      </a>
+    </div>
+  <p><b>Productor:</b> Germán Castilla</p>
   <img class="director_image" src="/img/producers/german.jpg">
   <div class="social_block">
     <a href="https://www.instagram.com/germancastillag/" target="_blank">

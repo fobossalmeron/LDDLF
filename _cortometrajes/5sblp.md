@@ -17,4 +17,3 @@ directors:
 <b>Director:</b> Ángel Linares<br>
 <b>Director de fotografía:</b> Renato Martínez Gómez<br>
 <b>Cast:</b> Aurelina Díaz, Olivia Ponce, Silvia Ponce, Don Enrique, Pedro Galviz<br>
-<b>Música:</b> Alfredo Garrido<br>
