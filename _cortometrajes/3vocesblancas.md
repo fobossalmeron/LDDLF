@@ -1,6 +1,7 @@
 ---
 title: Voces Blancas
 still: img/stills/vocesblancas.jpg
+trailerid: 236672641
 synopsis: >
   <b>Voces Blancas</b> reúne a treinta niñas y niños de entre 12 y 17 años para profundizar en su visión sobre la sexualidad, el sexismo, la trata de personas, entre otros temas.
 directors:

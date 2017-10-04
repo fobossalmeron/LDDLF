@@ -1,6 +1,7 @@
 ---
 title: Que Canten Los Niños
 still: img/stills/qcln.jpg
+trailerid: 236672459
 synopsis: >
   <b>Que canten los niños</b> sigue los esfuerzos de Xochi y Ceci, dos niñas de 12 y 10 años, que intentan escapar de su existencia llena de abusos físicos, emocionales y sexuales dentro de un albergue disfuncional. ¿Cuántos niños desamparados y olvidados sobreviven en esas condiciones? Es la historia del abuso de poder que sometió a niños durante décadas para fundar una fábrica de esclavos ignorados.
 directors:

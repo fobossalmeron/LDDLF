@@ -1,6 +1,7 @@
 ---
 title: El Sol Bajo Los Pies
 still: img/stills/sblp.jpg
+trailerid: 236672332
 synopsis: >
   <b>El sol bajo los pies</b> es un cortometraje que se introduce en la realidad de los niños que involuntariamente se convierten en jornaleros en México. Este documental evidencia las condiciones en que se ven obligados a trabajar con sus padres, y las mentiras y abusos de quienes los contratan.
 directors:

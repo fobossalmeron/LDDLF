@@ -1,6 +1,7 @@
 ---
 title: Desechables
 still: img/stills/desechables.jpg
+trailerid: 236672175
 synopsis: >
   <b>Desechables</b> sigue la historia de Martín, un joven de 15 años que es engañado y amenazado por un cartel de narcotraficantes que quiere convertirlo en sicario. Inesperadamente Martín se reencuentra con alguien que interviene para ayudarle, desatando la furia de los delincuentes y una serie de repercusiones mortales.
 directors:

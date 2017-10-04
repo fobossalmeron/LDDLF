@@ -10,7 +10,10 @@ permalink: cortometrajes/
     <div class="corto-half">
       <h2>{{corto.title}}</h2>
       <p>{{corto.synopsis}}</p>
-      <img class="still" src="/{{ corto.still }}">
+      <!-- <img class="still" src="/{{ corto.still }}"> -->
+      <div class="trailer-container">
+        <iframe src="https://player.vimeo.com/video/{{corto.trailerid}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
       {{ corto.content }}
     </div>
     <div class="director-card">
