@@ -28,6 +28,7 @@ que aborda LA DANZA DE LAS FIERAS.</p>
   <p>
   <b>Género:</b> Mixto, ficción y documental<br>
   <b>Duración:</b> 2 horas 8 minutos.<br>
+  <br>
   <b>Productora Ejecutiva:</b> Silvia Garza</p>
   <img class="director_image" src="/img/producers/silvia.jpg">
     <div class="social_block">

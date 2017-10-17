@@ -29,6 +29,11 @@ permalink: index.html
     <li class="producer_bala"></li>
     <li class="producer_educadores"></li>
   </ul>
+  <h3>presskit</h3>
+  <p>
+  <a class="presskitButton" href="/download/LDDLF_PRESSKIT.pdf">Descarga el Presskit en Español</a>
+  <a class="presskitButton" href="/download/WILDDANCE_PRESSKIT.pdf">Download Presskit in English</a>
+  </p>
   <h3>trailer</h3>
   <div class="trailer-container">
     <iframe src="https://player.vimeo.com/video/226767311" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

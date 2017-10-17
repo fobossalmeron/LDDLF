@@ -602,4 +602,15 @@ input[type="submit"]{
   }
 }
 
+.presskitButton{
+  float: left;
+      position: relative;
+      background-color: #c83222;
+      color: white;
+      padding: 2px 7px 0px 8px;
+      margin-right: 10px;
+      text-transform: uppercase;
+      font-weight: bold;
+}
+
 @import 'responsive';
