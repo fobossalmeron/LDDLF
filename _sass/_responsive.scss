@@ -24,6 +24,23 @@
 }
 
 @media (max-width:750px) {
+  #festival_list{
+    grid-gap: 15px;
+    grid-area: 1;
+    grid-row-start: 2;
+    justify-items: flex-start;
+    max-width: 200px;
+  }
+  #landing{
+    grid-template-columns: 1fr 1fr;
+    img{
+      width: 100%;
+      align-self:flex-start;
+      margin-top: 50%;
+      min-width: 260px;
+      grid-area: 1;
+    }
+  }
 
   section{
     padding-top:15%;

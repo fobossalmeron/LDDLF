@@ -97,6 +97,17 @@ section{
   }
 }
 
+#landing{
+  position: relative;
+    min-height: 100vh;
+    float: left;
+    padding: 10% 15% 15% 5%;
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 7fr 1fr;
+    align-items: flex-end;
+    grid-gap: 20px;
+}
 nav{
   width: 100%;
   position:fixed;
@@ -192,14 +203,9 @@ nav{
 }
 
 #logo{
-  width: 60%;
+  width: 50%;
   position: relative;
-  float: left;
-  padding-bottom: 10%;
-  padding: 10% 20% 0 0;
-  margin-top: 20%;
   box-sizing: border-box;
-  bottom: 0px;
 }
 
 #producer_list{
@@ -238,7 +244,26 @@ nav{
     background-size: contain;
   }
 }
-
+#festival_list{
+  float: left;
+  padding-bottom: 10%;
+  padding: 0;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  grid-gap: 15px;
+    li{
+      height: 75px;
+      box-sizing: border-box;
+      width: 90px;
+      display: flex;
+      background-repeat: no-repeat;
+      background-position: 0;
+      background-size: cover;
+    }
+}
 .producer_reflekto{
   background-image: url(/img/productoras/reflekto.svg);
 }
@@ -272,20 +297,31 @@ nav{
 
 .laurel_morelia{
   background-image: url(/img/laureles/morelia.svg);
+  height: 45px !important;
+  background-position: 0 -32px !important;
 }
 .laurel_londres{
   background-image: url(/img/laureles/londres.svg);
+  height: 66px !important;
 }
 .laurel_amsterdam{
   background-image: url(/img/laureles/amsterdam.svg);
+  height: 66px !important;
+}
+.laurel_houston{
+  background-image: url(/img/laureles/houston.svg);
+}
+.laurel_guadalajara{
+  background-image: url(/img/laureles/guadalajara.svg);
+  height: 52px !important;
 }
 .laurel_paris{
   background-image: url(/img/laureles/paris.png);
-  background-size: contain;
+  height: 61px !important;
 }
 .laurel_ficautor{
   background-image: url(/img/laureles/ficautor.png);
-  background-size: contain;
+  height: 44px !important;
 }
 
 h2{
