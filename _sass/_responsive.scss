@@ -28,15 +28,16 @@
     grid-gap: 15px;
     grid-area: 1;
     grid-row-start: 2;
-    justify-items: flex-start;
-    max-width: 200px;
+    justify-items: center;
   }
   #landing{
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+    justify-items: center;
     img{
       width: 100%;
-      align-self:flex-start;
-      margin-top: 50%;
+      align-self:center;
+      width: 80%;
+      margin-top: 40%;
       min-width: 260px;
       grid-area: 1;
     }

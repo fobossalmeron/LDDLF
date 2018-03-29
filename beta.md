@@ -7,12 +7,13 @@ permalink: index.html
 <section id="landing">
   <img id="logo" src="/img/logowhite.svg" alt="La Danza de las Fieras">
   <ul id="festival_list">
+    <li class="laurel_houston"></li>
+    <li class="laurel_houston2"></li>
     <li class="laurel_morelia"></li>
     <li class="laurel_guadalajara"></li>
-    <li class="laurel_paris"></li>
     <li class="laurel_londres"></li>
     <li class="laurel_amsterdam"></li>
-    <li class="laurel_houston"></li>
+    <li class="laurel_paris"></li>
     <li class="laurel_ficautor"></li>
   </ul>
 </section>
