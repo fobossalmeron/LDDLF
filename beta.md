@@ -13,6 +13,7 @@ permalink: index.html
     <li class="laurel_guadalajara"></li>
     <li class="laurel_londres"></li>
     <li class="laurel_amsterdam"></li>
+    <li class="laurel_asiamadrid"></li>
     <li class="laurel_paris"></li>
     <li class="laurel_ficautor"></li>
   </ul>
