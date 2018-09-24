@@ -15,6 +15,8 @@ permalink: index.html
     <li class="laurel_amsterdam"></li>
     <li class="laurel_asiamadrid"></li>
     <li class="laurel_paris"></li>
+    <li class="laurel_fcm"></li>
+    <li class="laurel_16kms"></li>
     <li class="laurel_ficautor"></li>
   </ul>
 </section>
