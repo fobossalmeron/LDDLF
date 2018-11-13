@@ -9,13 +9,14 @@ permalink: index.html
   <ul id="festival_list">
     <li class="laurel_houston"></li>
     <li class="laurel_houston2"></li>
+    <li class="laurel_fcm"></li>
+    <li class="laurel_banaba"></li>
     <li class="laurel_morelia"></li>
     <li class="laurel_guadalajara"></li>
     <li class="laurel_londres"></li>
     <li class="laurel_amsterdam"></li>
     <li class="laurel_asiamadrid"></li>
     <li class="laurel_paris"></li>
-    <li class="laurel_fcm"></li>
     <li class="laurel_16kms"></li>
     <li class="laurel_ficautor"></li>
   </ul>
