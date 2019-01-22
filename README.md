@@ -1,4 +1,3 @@
 ##La Danza de las Fieras
 
-- Imagenes de: Ana, Stacy, Patterson, Linares
-- og image noticias?
+Sitio web para el largometraje La Danza de las Fieras

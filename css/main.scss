@@ -184,7 +184,6 @@ nav{
     height: auto;
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
-    background: url('{{ site.baseurl }}img/background.svg') no-repeat;
     background-size: cover;
     transition: 1s opacity;
   }
@@ -257,7 +256,7 @@ nav{
     li{
       height: 75px;
       box-sizing: border-box;
-      width: 90px;
+      width: 80px;
       display: flex;
       background-repeat: no-repeat;
       background-position: 0;
@@ -295,62 +294,74 @@ nav{
   background-image: url(/img/productoras/educadores.svg);
 }
 
-.laurel_morelia{
-  background-image: url(/img/laureles/morelia.svg);
-  height: 45px !important;
-  background-position: 0 -32px !important;
-}
-.laurel_londres{
-  background-image: url(/img/laureles/londres.svg);
-  height: 66px !important;
-}
-.laurel_fcm{
-  background-image: url(/img/laureles/fcm.svg);
-  width: 160px !important;
-  height: 80px !important;
-  background-position: 50% -56px !important;
-}
-.laurel_banaba{
-  background-image: url(/img/laureles/banaba.svg);
-  width: 160px !important;
-  height: 80px !important;
-  background-position: 50% -56px !important;
-}
-.laurel_16kms{
-  background-image: url(/img/laureles/16kms.svg);
-  height: 54px !important;
-  background-position: 50% -26px !important;
-}
-.laurel_asiamadrid{
-  background-image: url(/img/laureles/asiamadrid.svg);
-  height: 66px !important;
-}
-.laurel_amsterdam{
-  background-image: url(/img/laureles/amsterdam.svg);
-  height: 66px !important;
-}
+//LAURELES
+
 .laurel_houston{
   background-image: url(/img/laureles/houston.svg);
-  width: 160px !important;
-  height: 120px !important;
+  width: 130px !important;
+  height: 91px !important;
 }
 .laurel_houston2{
   background-image: url(/img/laureles/houston2.svg);
-  width: 160px !important;
-  height: 120px !important;
+  width: 130px !important;
+  height: 91px !important;
+}
+.laurel_banaba{
+  background-image: url(/img/laureles/banaba.svg);
+  width: 130px !important;
+  height: 63px !important;
+  background-position: 50% -46px !important;
+}
+.laurel_fcm{
+  background-image: url(/img/laureles/fcm.svg);
+  width: 130px !important;
+  height: 60px !important;
+  background-position: 50% -48px !important;
+}
+
+.laurel_morelia{
+  background-image: url(/img/laureles/morelia.svg);
+  height: 45px !important;
+  background-position: 0 -26px !important;
+}
+.laurel_londres{
+  background-image: url(/img/laureles/londres.svg);
+  height: 58px !important;
+}
+.laurel_asiamadrid{
+  background-image: url(/img/laureles/asiamadrid.svg);
+  height: 58px !important;
+}
+.laurel_amsterdam{
+  background-image: url(/img/laureles/amsterdam.svg);
+  height: 58px !important;
+}
+
+.laurel_16kms{
+  background-image: url(/img/laureles/16kms.svg);
+  height: 43px !important;
+  background-position: 50% -26px !important;
+}
+.laurel_ibiza{
+  background-image: url(/img/laureles/ibiza.svg);
+  height: 54px !important;
 }
 .laurel_guadalajara{
   background-image: url(/img/laureles/guadalajara.svg);
-  height: 52px !important;
+  height: 45px !important;
 }
 .laurel_paris{
   background-image: url(/img/laureles/paris.svg);
-  height: 61px !important;
+  height: 52px !important;
 }
 .laurel_ficautor{
   background-image: url(/img/laureles/ficautor.png);
   height: 44px !important;
+  width: 92px !important;
 }
+
+
+//FIN LAURELES
 
 h2{
   background-color: $red;
@@ -366,16 +377,20 @@ h2{
 }
 
 h3{
-  background-color: $white;
+  background-color: $black;
   clear:both;
   float:left;
   background-image: url(../img/noise2.png);
   text-transform: uppercase;
-  color: $black;
+  color: $white;
   font-weight: bold;
   padding: 2px 7px 0px 8px;
   font-size: 2em;
   display:inline-block;
+  &.reversed{
+    color:$black;
+    background-color:$white;
+  }
 }
 
 .trailer-container{
@@ -505,6 +520,9 @@ footer{
   margin: 0 10%;
   box-sizing: border-box;
   border-top: 1px solid #ffffff;
+  h4{
+    background-color: $red;
+  }
 }
 
 form{
@@ -514,7 +532,7 @@ form{
   width:50% !important;
 }
 
-input,textarea{
+input, textarea{
   padding: 2%;
   width:100%;
   font-family: inherit;
@@ -522,19 +540,20 @@ input,textarea{
   margin: 2% 0%;
   clear:both;
   font-size: 1.3em;
-  border: 1px solid rgba(255, 255, 255, 1);
+  border: 1px solid transparent;
+  border-bottom-color: $white;
   background-color: rgba(255, 255, 255, 0);
   color:$white;
   box-sizing: border-box;
   outline: none;
   text-transform: uppercase;
-  transition: .4s ease;
+  transition: .3s ease;
   &::placeholder{
     color:$white;
   }
   &:focus{
     outline: none;
-    background-color:$black;
+    background-color:$black !important;
     box-shadow: 0 0 5px rgba(200, 50, 34, 1);
     border: 1px solid rgba(200, 50, 34, 1);
   }
@@ -554,16 +573,21 @@ h4{
 }
 
 input[type="submit"]{
-  background-color:transparent;
   border: 1px solid rgba(255, 255, 255, 1);
+  border-width: 0px;
+  background-color:$black;
+  color:$white;
   font-family: inherit;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 2em;
+  text-align: left;
+  width: auto;
+  padding: 3px 6px;
   cursor: pointer;
   &:hover{
-    background-color:$black;
-    color:$white;
+    background-color: $white;
+    color:$black;
   }
 }
 

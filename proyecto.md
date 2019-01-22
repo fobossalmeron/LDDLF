@@ -17,13 +17,13 @@ se han involucrado siete directores de cine y más de
 veinte expertos en el tema: sociólogos, antropólogos,
 psicólogos, criminalistas y otros especialistas en
 derechos humanos y trata de personas.</p>
-<h3>Sinopsis</h3>
+<h3 class="reversed">Sinopsis</h3>
 <p>El internet como facilitador de víctimas para la
 esclavitud sexual, niños sicarios, pequeños jornaleros
 en condiciones infrahumanas, albergues disfuncionales,
 víctimas colaterales y familias destruidas, son los temas
 que aborda LA DANZA DE LAS FIERAS.</p>
-<h3>Ficha tecnica</h3>
+<h3 class="reversed">Ficha tecnica</h3>
 <div class="producer_card">
   <p>
   <b>Género:</b> Mixto, ficción y documental<br>

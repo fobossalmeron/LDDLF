@@ -3,7 +3,7 @@ baseurl: "/"
 description: >
   Seis historias. Seis directores. La Danza de las Fieras es una
   película que aborda diferentes caras de la trata de personas.
-url: "http://ladanzadelasfieras.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ladanzadelasfieras.com/"
 facebook: https://www.facebook.com/ladanzadelasfieras/
 imdb: http://www.imdb.com/title/tt7072396/
 
