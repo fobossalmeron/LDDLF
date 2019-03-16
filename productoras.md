@@ -15,9 +15,9 @@ productoras:
       creatividad, pero sólidamente sustentadas, acordes a las características y
       necesidades de cada proyecto.
     img: reflekto.svg
-  - nombre: Kap Films
+  - nombre: Antítesis
     descripcion: >
-      <b>Kap Films</b> nace de los deseos de un grupo de jóvenes cineastas que buscan generar proyectos relevantes. A través de la confianza depositada en jóvenes artistas para el desarrollo de los proyectos, escuchando las necesidades de los nuevos creativos para dar resultados frescos, innovadores y actualizados.
+      <b>Antítesis</b> nace de los deseos de un grupo de jóvenes cineastas que buscan generar proyectos relevantes. A través de la confianza depositada en jóvenes artistas para el desarrollo de los proyectos, escuchando las necesidades de los nuevos creativos para dar resultados frescos, innovadores y actualizados.
     link: http://kapfilms.com
     facebook: https://www.facebook.com/kapfilms/
     instagram: https://www.instagram.com/kapfilms/

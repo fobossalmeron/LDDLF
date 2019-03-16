@@ -13,7 +13,7 @@ directors:
 ---
 
 <b>Genero:</b> Ficción<br>
-<b>Duración:</b> 19:32 minutos<br>
+<b>Duración:</b> 19:53 minutos<br>
 <b>Guión:</b> Miguel Ángel Fernández<br>
 <b>Director:</b> Miguel Ángel Fernández<br>
 <b>Director de fotografía:</b> Alejandro Chávez<br>

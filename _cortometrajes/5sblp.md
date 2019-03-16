@@ -13,7 +13,7 @@ directors:
 ---
 
 <b>Genero:</b> Documental<br>
-<b>Duración:</b> 22:00 minutos<br>
+<b>Duración:</b> 18:23 minutos<br>
 <b>Guión:</b> Ángel Linares<br>
 <b>Director:</b> Ángel Linares<br>
 <b>Director de fotografía:</b> Renato Martínez Gómez<br>

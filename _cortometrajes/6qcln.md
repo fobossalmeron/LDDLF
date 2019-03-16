@@ -15,7 +15,7 @@ directors:
 ---
 
 <b>Genero:</b> Ficción<br>
-<b>Duración:</b> 19:10 minutos<br>
+<b>Duración:</b> 20:56 minutos<br>
 <b>Guión:</b> Gina Herrera, Genaro Peñalosa<br>
 <b>Directora:</b> Gina Herrera<br>
 <b>Directora de fotografía:</b> Flavia Martínez<br>

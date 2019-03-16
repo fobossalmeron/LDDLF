@@ -15,7 +15,7 @@ directors:
 ---
 
 <b>Genero:</b> Ficción<br>
-<b>Duración:</b> 20:17 minutos<br>
+<b>Duración:</b> 19:58 minutos<br>
 <b>Guión:</b> Rodrigo Ruíz Patterson<br>
 <b>Director:</b> Rodrigo Ruíz Patterson<br>
 <b>Director de fotografía:</b> Argel Ahumada<br>

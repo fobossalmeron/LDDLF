@@ -14,7 +14,7 @@ directors:
 ---
 
 <b>Genero:</b> Documental <br>
-<b>Duración:</b> 18:00 minutos<br>
+<b>Duración:</b> 18:23 minutos<br>
 <b>Guión:</b> Ana Díez<br>
 <b>Directora:</b> Ana Díez<br>
 <b>Director de fotografía:</b> Alejandro Chávez<br>

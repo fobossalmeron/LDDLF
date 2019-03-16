@@ -11,7 +11,7 @@ directors:
     mail: stacy@redrum.com.mx
     imdb: http://www.imdb.com/name/nm1142384/
   - name: Alayde Castro
-    bio: Socia fundadora y Directora Creativa de la Casa Productora <a href="http://kapturaprojects.com/" target="_blank">Kaptura Projects</a> que ha trabajado para clientes como la UNAM, el <em>STC Metro</em> y la Secretaría de Turismo del Estado de Puebla.
+    bio: Socia fundadora y Directora Creativa de la casa productora Antítesis que ha trabajado para clientes como la UNAM, el <em>STC Metro</em> y la Secretaría de Turismo del Estado de Puebla.
     img: img/directors/alayde.jpg
     mail: alayde.castro@kapturaprojects.com
     imdb: http://www.imdb.com/name/nm7429166/
